@@ -1,0 +1,4 @@
+curl https://mainnet.infura.io/v3/8b95be26a7e342348aa97bb92b8043ff \
+    -X POST \
+    -H "Content-Type: application/json" \
+    -d '{"jsonrpc":"2.0","method":"eth_accounts","params":[],"8b95be26a7e342348aa97bb92b8043ff":1}'
